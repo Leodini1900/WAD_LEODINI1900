@@ -461,6 +461,22 @@
                  "width":32,
                  "x":64,
                  "y":544
+                }, 
+                {
+                 "height":17,
+                 "id":20,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Bonjour Monde",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":105,
+                 "x":216.202878477659,
+                 "y":406.694508009153
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -543,7 +559,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":20,
+ "nextobjectid":21,
  "orientation":"orthogonal",
  "properties":[
         {
