@@ -1226,7 +1226,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -1248,10 +1247,6 @@
                     }
                 }],
          "tilewidth":32
-        }, 
-        {
-         "firstgid":4944,
-         "source":"..\/..\/..\/..\/..\/..\/..\/home\/vapo\/T\u00e9l\u00e9chargements\/05.tsx"
         }],
  "tilewidth":32,
  "type":"map",
