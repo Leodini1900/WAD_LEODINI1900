@@ -2455,19 +2455,7 @@
                          "tileid":48
                         }, 
                         {
-                         "duration":200,
-                         "tileid":72
-                        }, 
-                        {
-                         "duration":200,
-                         "tileid":72
-                        }, 
-                        {
-                         "duration":200,
-                         "tileid":72
-                        }, 
-                        {
-                         "duration":200,
+                         "duration":1000,
                          "tileid":72
                         }, 
                         {
@@ -2499,19 +2487,7 @@
                          "tileid":51
                         }, 
                         {
-                         "duration":200,
-                         "tileid":75
-                        }, 
-                        {
-                         "duration":200,
-                         "tileid":75
-                        }, 
-                        {
-                         "duration":200,
-                         "tileid":75
-                        }, 
-                        {
-                         "duration":200,
+                         "duration":1000,
                          "tileid":75
                         }, 
                         {
@@ -2543,19 +2519,7 @@
                          "tileid":52
                         }, 
                         {
-                         "duration":200,
-                         "tileid":76
-                        }, 
-                        {
-                         "duration":200,
-                         "tileid":76
-                        }, 
-                        {
-                         "duration":200,
-                         "tileid":76
-                        }, 
-                        {
-                         "duration":200,
+                         "duration":1000,
                          "tileid":76
                         }, 
                         {
@@ -2587,19 +2551,7 @@
                          "tileid":60
                         }, 
                         {
-                         "duration":200,
-                         "tileid":84
-                        }, 
-                        {
-                         "duration":200,
-                         "tileid":84
-                        }, 
-                        {
-                         "duration":200,
-                         "tileid":84
-                        }, 
-                        {
-                         "duration":200,
+                         "duration":1000,
                          "tileid":84
                         }, 
                         {
@@ -2631,19 +2583,7 @@
                          "tileid":63
                         }, 
                         {
-                         "duration":200,
-                         "tileid":87
-                        }, 
-                        {
-                         "duration":200,
-                         "tileid":87
-                        }, 
-                        {
-                         "duration":200,
-                         "tileid":87
-                        }, 
-                        {
-                         "duration":200,
+                         "duration":1000,
                          "tileid":87
                         }, 
                         {
@@ -2675,19 +2615,7 @@
                          "tileid":64
                         }, 
                         {
-                         "duration":200,
-                         "tileid":88
-                        }, 
-                        {
-                         "duration":200,
-                         "tileid":88
-                        }, 
-                        {
-                         "duration":200,
-                         "tileid":88
-                        }, 
-                        {
-                         "duration":200,
+                         "duration":1000,
                          "tileid":88
                         }, 
                         {
