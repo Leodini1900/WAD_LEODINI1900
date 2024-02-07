@@ -2455,20 +2455,20 @@
                          "tileid":48
                         }, 
                         {
-                         "duration":200,
+                         "duration":1000,
                          "tileid":72
                         }, 
                         {
                          "duration":200,
-                         "tileid":48
+                         "tileid":144
                         }, 
                         {
                          "duration":200,
-                         "tileid":24
+                         "tileid":120
                         }, 
                         {
                          "duration":200,
-                         "tileid":0
+                         "tileid":96
                         }],
                  "id":0
                 }, 
@@ -2551,20 +2551,20 @@
                          "tileid":60
                         }, 
                         {
-                         "duration":200,
+                         "duration":1000,
                          "tileid":84
                         }, 
                         {
                          "duration":200,
-                         "tileid":60
+                         "tileid":156
                         }, 
                         {
                          "duration":200,
-                         "tileid":36
+                         "tileid":132
                         }, 
                         {
                          "duration":200,
-                         "tileid":12
+                         "tileid":108
                         }],
                  "id":12
                 }, 
