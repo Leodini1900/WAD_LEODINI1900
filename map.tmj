@@ -538,47 +538,6 @@
                  "y":529.333333333333
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"closeLayer",
-                 "type":"string",
-                 "value":"closed_door"
-                }, 
-                {
-                 "name":"default",
-                 "type":"bool",
-                 "value":false
-                }, 
-                {
-                 "name":"door",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"middledoor",
-                 "type":"string",
-                 "value":"middle_door"
-                }, 
-                {
-                 "name":"openLayer",
-                 "type":"string",
-                 "value":"opened_door"
-                }, 
-                {
-                 "name":"persist",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"readabledBy",
-                 "type":"string",
-                 "value":""
-                }, 
-                {
-                 "name":"writableBy",
-                 "type":"string",
-                 "value":""
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
