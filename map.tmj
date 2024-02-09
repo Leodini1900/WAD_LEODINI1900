@@ -544,6 +544,27 @@
          "id":69,
          "name":"opened_door",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"autoClose",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"doorVariable",
+                 "type":"string",
+                 "value":"doorOpened"
+                }, 
+                {
+                 "name":"zone",
+                 "type":"string",
+                 "value":"door_open_zoneA"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -3133,6 +3154,58 @@
                          "tileid":112
                         }],
                  "id":16
+                }, 
+                {
+                 "id":96,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":32,
+                             "id":1,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":32,
+                             "x":0,
+                             "y":0
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
+                }, 
+                {
+                 "id":108,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":32,
+                             "id":1,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":32,
+                             "x":0,
+                             "y":0
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
                 }],
          "tilewidth":32
         }],
