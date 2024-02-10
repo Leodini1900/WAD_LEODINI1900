@@ -657,7 +657,7 @@
                 {
                  "height":0,
                  "id":93,
-                 "name":"my_door",
+                 "name":"my_doorB",
                  "point":true,
                  "properties":[
                         {
@@ -704,8 +704,56 @@
                 }, 
                 {
                  "height":0,
+                 "id":96,
+                 "name":"my_doorC",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"closed_door"
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":"opened_door"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"readableBy",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"writableBy",
+                         "type":"string",
+                         "value":""
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":181,
+                 "y":754.666666666667
+                }, 
+                {
+                 "height":0,
                  "id":95,
-                 "name":"my_door",
+                 "name":"my_doorA",
                  "point":true,
                  "properties":[
                         {
@@ -903,7 +951,7 @@
          "y":0
         }],
  "nextlayerid":76,
- "nextobjectid":96,
+ "nextobjectid":97,
  "orientation":"orthogonal",
  "properties":[
         {
