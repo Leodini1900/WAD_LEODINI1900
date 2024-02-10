@@ -117,7 +117,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"my_door"
+                 "value":"my_door3"
                 }, 
                 {
                  "name":"zone",
@@ -784,13 +784,61 @@
                  "y":797.666666666667
                 }, 
                 {
+                 "height":0,
+                 "id":97,
+                 "name":"my_door4",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"closed_door"
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":"opened_door"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"readableBy",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"writableBy",
+                         "type":"string",
+                         "value":""
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":242,
+                 "y":981.666666666667
+                }, 
+                {
                  "height":19,
                  "id":89,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
-                     "text":"5portestest",
+                     "text":"test5",
                      "wrap":true
                     },
                  "type":"",
@@ -840,7 +888,7 @@
          "y":0
         }],
  "nextlayerid":77,
- "nextobjectid":97,
+ "nextobjectid":98,
  "orientation":"orthogonal",
  "properties":[
         {
