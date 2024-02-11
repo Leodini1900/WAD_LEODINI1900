@@ -508,6 +508,54 @@
                  "width":120.625,
                  "x":315.6875,
                  "y":810.5
+                }, 
+                {
+                 "height":0,
+                 "id":93,
+                 "name":"my_door",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"closed_door"
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":"opened_door"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"readableBy",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"writableBy",
+                         "type":"bool",
+                         "value":false
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":174,
+                 "y":482
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -574,7 +622,7 @@
          "y":0
         }],
  "nextlayerid":80,
- "nextobjectid":93,
+ "nextobjectid":94,
  "orientation":"orthogonal",
  "properties":[
         {
