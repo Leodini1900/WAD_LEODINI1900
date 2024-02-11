@@ -65,6 +65,32 @@
          "id":71,
          "name":"door_open_zone2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"autoClose",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":false
+                }, 
+                {
+                 "name":"code",
+                 "type":"string",
+                 "value":"181178"
+                }, 
+                {
+                 "name":"doorVariable",
+                 "type":"string",
+                 "value":"my_door"
+                }, 
+                {
+                 "name":"zone",
+                 "type":"string",
+                 "value":"door_open_zone1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
