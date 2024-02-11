@@ -676,35 +676,6 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
-                {
-                 "id":6,
-                 "properties":[
-                        {
-                         "name":"autoClose",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"autoOpen",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"code",
-                         "type":"string",
-                         "value":"181178"
-                        }, 
-                        {
-                         "name":"doorVariable",
-                         "type":"string",
-                         "value":"my_door"
-                        }, 
-                        {
-                         "name":"zone",
-                         "type":"string",
-                         "value":"door_open_zone1"
-                        }]
                 }],
          "tilewidth":32
         }, 
