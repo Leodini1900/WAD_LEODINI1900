@@ -183,7 +183,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"my_roof"
+                 "value":"teleport1"
                 }, 
                 {
                  "name":"zone",
