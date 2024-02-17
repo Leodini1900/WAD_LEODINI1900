@@ -52,9 +52,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"closeSound",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/steamhouse.ddns.net:4443\/WAD\/Ambiance_WAD\/teleportation.mp3"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"float",
+                 "value":0
                 }],
          "type":"tilelayer",
          "visible":true,
