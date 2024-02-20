@@ -457,6 +457,12 @@
          "id":90,
          "name":"closed_door4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -788,11 +794,6 @@
                          "name":"closeLayer",
                          "type":"string",
                          "value":"closed_door"
-                        }, 
-                        {
-                         "name":"closeSound",
-                         "type":"string",
-                         "value":"Shower-Door-Closing-A2.mp3"
                         }, 
                         {
                          "name":"default",
