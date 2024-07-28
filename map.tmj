@@ -54,7 +54,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/steamhouse.ddns.net:4443\/Liste_Cadeau\/"
+                 "value":"https:\/\/steamhouse.ddns.net\/Liste_Cadeau\/"
                 }],
          "type":"tilelayer",
          "visible":true,
